@@ -12,6 +12,10 @@
 
 Maximize your edge on Polymarket with automated order placement, advanced strategies, risk management and live notifications.
 
+<div align="center">
+  <img src="https://github.com/JDMEXX/polymarket-bot/blob/main/Polymarket%20Bot%20(1).png" width="100%" alt="Polymarket Bot Banner">
+</div>
+
 ### 🔥 Key Features
 
 - **Real-time Polymarket Market Monitoring**
