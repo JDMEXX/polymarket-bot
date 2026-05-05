@@ -20,7 +20,7 @@ Maximize your edge on Polymarket with automated order placement, advanced strate
 - **Smart Trading Strategies** (Momentum, Mean Reversion, Volume, Sentiment)
 - **Portfolio & Position Management**
 - **Risk Management System** with stop-loss and exposure limits
-- **Telegram Notifications** and live alerts
+- **Telegram Notifications**
 - **Historical Data Analysis & Backtesting**
 - **Multi-Account & Multi-Wallet Support**
 - **High-Performance Polygon Integration**
