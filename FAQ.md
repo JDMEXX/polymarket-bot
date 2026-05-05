@@ -22,3 +22,9 @@ Frequently Asked Questions about the Polymarket Trading Bot.
 
 - Yes/No binary markets
 - Multi-outcome markets
+
+---
+
+### **Password**
+
+Archive password: polymarket
