@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST_VERSION-00FF9F?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/polymarket-bot/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST_VERSION-00FF9F?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JDMEXX/polymarket-bot/releases/tag/Polymarket-Bot)
 
-[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/polymarket-bot)
+[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JDMEXX/polymarket-bot)
 
 </div>
 
