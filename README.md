@@ -1,5 +1,13 @@
 ## 📈 Polymarket Bot — Advanced Automated Trading Bot for Polymarket
 
+<div align="center">
+
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST_VERSION-00FF9F?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/polymarket-bot/archive/refs/heads/main.zip)
+
+[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/polymarket-bot)
+
+</div>
+
 **The most powerful Polymarket trading bot** — professional automation tool for prediction markets on Polymarket.com. Execute intelligent trades, scan for arbitrage opportunities, monitor markets in real-time and automate your betting strategy on the world's largest decentralized prediction market platform.
 
 Maximize your edge on Polymarket with automated order placement, advanced strategies, risk management and live notifications.
