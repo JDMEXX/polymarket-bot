@@ -1,4 +1,4 @@
-## 📈 Polymarket Bot — Advanced Automated Trading Bot for Polymarket
+## Polymarket Bot — Advanced Automated Trading Bot for Polymarket
 
 <div align="center">
 
